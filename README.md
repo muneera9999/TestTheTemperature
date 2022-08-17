@@ -17,7 +17,7 @@ Explanation Walkthrough:
 
 Note: use can use any sensor you would like.
 
-4- Before uploading the code DHT_MYSQL.ino in Task3 folder, make sure to change the ssid and password to your WiFi
+4- Before uploading the code DHT_MYSQL.ino in TestTheTemperature folder, make sure to change the ssid and password to your WiFi
 
 5- In phpMyAdmin, create a database named "esp32", then create a table named "dht" with values 1
 
